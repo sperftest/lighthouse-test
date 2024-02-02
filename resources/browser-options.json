@@ -1,0 +1,8 @@
+{
+    "headless": false,
+    "args": [
+        "--start-maximized",
+        "--no-sandbox",
+        "--disable-setuid-sandbox"
+    ]
+}
